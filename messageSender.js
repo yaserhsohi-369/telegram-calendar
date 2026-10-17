@@ -1,4 +1,4 @@
-import { md } from 'telegram-md';
+import { md } from '@vlad-yakovlev/telegram-md';
 
 class MessageSender {
     constructor(app, telegram) {
